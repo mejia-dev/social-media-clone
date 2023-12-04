@@ -4,8 +4,12 @@ function NewPosts() {
   return (
     <React.Fragment>
         <form id="newPosts">
-          <input type="text" required>What's happening?</input>
-          <button type="submit">Post!</button>
+          {
+          <label>
+            What's happening? <input name="newPost" />
+          </label>
+          
+          }
         </form>
       
     </React.Fragment>

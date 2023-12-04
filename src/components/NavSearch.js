@@ -3,7 +3,9 @@ import React from "react";
 function NavSearch() {
   return (
     <React.Fragment>
-      <input type="text">Search</input>
+      <label>
+        Search: <input name="search" />
+      </label>
     </React.Fragment>
   )
 }

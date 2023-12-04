@@ -3,7 +3,7 @@ import React from "react";
 function NotificationsButton() {
   return (
     <React.Fragment>
-      <button id="notificationsButton">Home</button>
+      <button id="notificationsButton">Notifications</button>
     </React.Fragment>
   )
 }
