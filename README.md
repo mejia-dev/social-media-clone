@@ -1,6 +1,6 @@
 # Social Media Clone
 
-Created by: (Hunter Empey)[https://github.com/LizardMak], (Christopher Ross Davila)[https://github.com/ChrisRDavila], and Aaron Mejia
+Created by: [Hunter Empey](https://github.com/LizardMak), [Christopher Ross Davila](https://github.com/ChrisRDavila), and Aaron Mejia
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## link to component diagram
+
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D13GLDlFZ0kY1YaD5m8GMEX-wvG2GBtLnN%26export%3Ddownload
