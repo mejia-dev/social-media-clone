@@ -1,12 +1,13 @@
 import React from "react";
+import PropTypes from "prop-types";
 
-function NewPosts() {
+function NewPosts(props) {
   return (
     <React.Fragment>
         <form id="newPosts">
           {
           <label>
-            What's happening? <input name="newPost" />
+            <p>{props.body} <input name="newPost" /></p>
           </label>
           
           }
@@ -14,6 +15,10 @@ function NewPosts() {
       
     </React.Fragment>
   )
+}
+
+NewPosts.propTypes = {
+  body: PropTypes.string, 
 }
 
 export default NewPosts;
