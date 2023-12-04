@@ -1,6 +1,5 @@
 import React from "react";
 import profilePhoto from '../img/bob.jpg';
-import backgroundPhoto from '../img/background.png';
 import User from './User.js';
 import UserLinks from './UserLinks.js';
 
