@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Based on the Epicodus prompt: https://full-time.learnhowtoprogram.com/react/react-fundamentals/help-queue-social-media-airbnb-clone
 
+## Component Diagram
+![Compnent Diagram of Social Media Clone site](./Social%20Media%20Clone.drawio.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -75,4 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## link to component diagram
 
-https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D13GLDlFZ0kY1YaD5m8GMEX-wvG2GBtLnN%26export%3Ddownload
+[component diagram](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D13GLDlFZ0kY1YaD5m8GMEX-wvG2GBtLnN%26export%3Ddownload)
