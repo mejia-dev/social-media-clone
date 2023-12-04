@@ -2,12 +2,13 @@ import React from 'react';
 import NavLinks from './NavLinks.js';
 import NavSearch from './NavSearch.js';
 import NavTweet from './NavTweet.js';
+// import '../App.css';
 
 function NavBar() {
   return (
     <React.Fragment>
       <NavLinks />
-      <NavSearch />
+      {/* <NavSearch /> */}
       <NavTweet />
     </React.Fragment>
   );

@@ -1,12 +1,13 @@
-import React from "react";
-import ViewPosts from './ViewPosts.js';
+// import React from "react";
+// import ViewPosts from './ViewPosts.js';
 
-function Feed(){
-  return (
-    <React.Fragment>
-      < ViewPosts/>
-    </React.Fragment>
-  );
-}
+// function Feed(){
+//   return (
+//     <React.Fragment>
+//       < ViewPosts
+//       />
+//     </React.Fragment>
+//   );
+// }
 
-export default Feed;
+// export default Feed;

@@ -6,12 +6,12 @@ import UserLinks from './UserLinks.js';
 function Profile(){
   return (
     <React.Fragment>
+      <img src={profilePhoto} alt="Current user's profile photo" id="profilePic" />
       <User
         name="Ross"
       />
-      <img src={profilePhoto} alt="Current user's profile photo" />
       <br/>
-      < UserLinks/>
+      < UserLinks id="userLinks"/>
     </React.Fragment>
   );
 }

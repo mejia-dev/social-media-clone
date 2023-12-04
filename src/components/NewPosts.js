@@ -7,10 +7,16 @@ function NewPosts(props) {
         <form id="newPosts">
           {
           <label>
-            <p>{props.body} <input name="newPost" /></p>
+            <h4>Ross</h4> <br/>
+            Post: 
+            <input name="content"/>
+<br/>
+            time: {props.timestamp}
           </label>
           
           }
+          <br/>
+          <button type="submit">Submit</button>
         </form>
       
     </React.Fragment>
@@ -18,7 +24,9 @@ function NewPosts(props) {
 }
 
 NewPosts.propTypes = {
-  body: PropTypes.string, 
+  user: PropTypes.string,
+  content: PropTypes.string ,
+  timestamp: PropTypes.string
 }
 
 export default NewPosts;

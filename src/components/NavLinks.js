@@ -6,7 +6,7 @@ import Messages from "./Messages";
 function NavLinks(){
   return (
     <React.Fragment>
-      <Home />
+      {/* <Home /> */}
       <Notifications />
       <Messages />
     </React.Fragment>
