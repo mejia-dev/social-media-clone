@@ -35,21 +35,25 @@ const mainPostList = [
 function Posts(){
   return (
     <React.Fragment>
-      <h1>Feed</h1>
-      <hr/ >
+      
+      
+      <div id="newPost">
       {mainUserList.map((newPost, index) =>
       < NewPosts name={newPost.user}
       content={newPost.content}
       timestamp={newPost.timestamp}
       key={index}/>
       )}
-      <hr/ >
-      {mainPostList.map((viewPosts, index) =>
-      < ViewPosts name={viewPosts.name}
-      content={viewPosts.content}
-      timestamp={viewPosts.timestamp}
-      key={index}/>
-      )}
+      </div>
+
+      <div className="outlinedDivs">
+        {mainPostList.map((viewPosts, index) =>
+        < ViewPosts name={viewPosts.name}
+        content={viewPosts.content}
+        timestamp={viewPosts.timestamp}
+        key={index}/>
+        )}
+      </div>
     </React.Fragment>
   );
 }

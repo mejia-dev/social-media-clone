@@ -7,8 +7,8 @@ function NavLinks(){
   return (
     <React.Fragment>
       {/* <Home /> */}
-      <Notifications />
-      <Messages />
+      {/* <Notifications />
+      <Messages /> */}
     </React.Fragment>
 
   );

@@ -7,9 +7,9 @@ import "../App.css";
 function FrontPage(){
   return (
     <React.Fragment>
-      <div>< UserInfo/></div>
-      <div>< Posts/></div>
-      <div>< SuggestedUsers/></div>
+      <div class="primaryDivs">< UserInfo/></div>
+      <div class="primaryDivs">< Posts/></div>
+      <div class="primaryDivs">< SuggestedUsers/></div>
     </React.Fragment>
   );
 }

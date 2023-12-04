@@ -29,16 +29,32 @@
   }
 }
 
-div {
+.primaryDivs {
   float: left;
   padding: 10px;
   margin: 10px;
+  width: 30%;
+}
+
+.outlinedDivs {
   border-style: solid;
-  border-color:lightgray;
+  border-color: lightgray;
+  padding: 10px;
+}
+
+#nameAlignRight {
+  text-align: center;
+}
+
+.userProfilePic {
+  width: 100px;
+  height: 100px;
+  clear: left;
+  float: left;
 }
 
 .navbar {
-  background-color: #282c34;
+  background-color: orange;
   min-height: 10vh;
   display: flex;
   flex-direction: row;
@@ -53,13 +69,28 @@ div {
   color: blue;
 }
 
-#profilePic {
-  width: 50%;
-  border-radius: 20px;
-  border-color: whitesmoke;
+#userLinks {
+  text-align: center;
 }
 
-#userLinks {
-  display: block;
-  align-items: center;
+#profilePic {
+  width: 10rem;
+  border-radius: 20px;
+  border-style: solid;
+  border-color:white;
+  float: left;
+}
+
+
+#photosHolder {
+  background-color: #2c97de;
+  padding: 30px;
+  width: 100%;
+  height: 15vh;
+  text-align: center;
+}
+
+#newPost {
+  background-color: #a6d8f1;
+  text-align: center;
 }

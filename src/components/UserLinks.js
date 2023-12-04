@@ -6,9 +6,7 @@ import Followers from './Followers.js';
 function UserLinks(){
   return (
     <React.Fragment>
-      < UserTweets/>
-      < Following/>
-      < Followers/>
+      < UserTweets/> | < Following/> | < Followers/>
     </React.Fragment>
   );
 }

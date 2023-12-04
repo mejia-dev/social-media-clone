@@ -9,9 +9,10 @@ function NewPosts(props) {
           <label>
             <h4>Ross</h4> <br/>
             Post: 
+            <br/>
             <input name="content"/>
 <br/>
-            time: {props.timestamp}
+            {/* time: {props.timestamp} */}
           </label>
           
           }
