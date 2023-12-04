@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Social Media Clone
+
+Created by: (Hunter Empey)[https://github.com/LizardMak], (Christopher Ross Davila)[https://github.com/ChrisRDavila], and Aaron Mejia
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Based on the Epicodus prompt: https://full-time.learnhowtoprogram.com/react/react-fundamentals/help-queue-social-media-airbnb-clone
 
 ## Available Scripts
 
