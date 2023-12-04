@@ -1,11 +1,12 @@
-import ViewUser from './ViewUser.js';
+import React from "react";
+import ViewUsers from './ViewUsers.js';
 
-function ViewUser(){
+function SuggestedUsers(){
   return (
     <React.Fragment>
-      
+      <ViewUsers />
     </React.Fragment>
   );
 }
 
-export default ViewUser;
+export default SuggestedUsers;

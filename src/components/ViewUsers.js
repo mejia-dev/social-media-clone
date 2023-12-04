@@ -1,10 +1,11 @@
 import React from "react";
 
-function Summary(){
+function ViewUsers(){
   return (
     <React.Fragment>
+      
     </React.Fragment>
   );
 }
 
-export default Summary;
+export default ViewUsers;

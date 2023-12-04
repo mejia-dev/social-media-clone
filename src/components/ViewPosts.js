@@ -1,10 +1,10 @@
 import React from "react";
 
-function Summary(){
+function ViewPosts(){
   return (
     <React.Fragment>
     </React.Fragment>
   );
 }
 
-export default Summary;
+export default ViewPosts;
