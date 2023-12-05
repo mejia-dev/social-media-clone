@@ -74,7 +74,8 @@
 }
 
 #profilePic {
-  width: 10rem;
+  width: 8vw;
+  height: auto;
   border-radius: 20px;
   border-style: solid;
   border-color:white;
